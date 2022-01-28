@@ -7,10 +7,10 @@ Tools used:
 
 Steps Involved are listed below:
 
-1.First we build the angular application by using the command ng build --prod or ng build.
-2.After building it generates the dist file, we need to copy that files for furture use.
-3.To create a docker file in our angular application.
+1.First we build the angular application by using the command ng build --prod or ng build
+2.After building it generates the dist file, we need to copy that files for furture use
+3.To create a docker file in our angular application
 4.Build images using the command docker build -t online_quiz . -f Dockerfile
 5.Push the build image to the dockerhub repository
-6.After that we created the EC2 instance and we have copied the dist files to the virtual machine.
-7.Using the ipv4 address 54.145.161.20 we are able to access the my online quiz angular application.
+6.After that we created the EC2 instance and we have copied the dist files to the virtual machine
+7.Using the ipv4 address 54.145.161.20 we are able to access the my online quiz angular application
