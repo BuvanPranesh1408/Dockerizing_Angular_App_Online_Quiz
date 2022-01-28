@@ -1,0 +1,93 @@
+{
+    "questions": [{
+            "questionText": "<br> What type of tag is this?",
+            "options": [{
+                    "text": "Break tag",
+                    "correct": true
+                },
+                {
+                    "text": "A broken one"
+                },
+                {
+                    "text": "An opening tag"
+                },
+                {
+                    "text": "An closing tag"
+                }
+            ],
+            "explanation": "<br> is used to insert a new line"
+        },
+        {
+            "questionText": "How is document type initialized in HTML5.?",
+            "options": [{
+                    "text": "</DOCTYPE HTML>"
+                },
+                {
+                    "text": "</DOCTYPE>"
+                },
+                {
+                    "text": "</DOCTYPEhtml>"
+                },
+                {
+                    "text": "<!DOCTYPE HTML>",
+                    "correct": true
+                }
+            ],
+            "explanation": "<!DOCTYPE HTML> is used to initialize"
+        },
+        {
+            "questionText": "Which of the following HTML Elements is used for making any text bold?",
+            "options": [{
+                    "text": "<p>"
+                },
+                {
+                    "text": "<b>",
+                    "correct": true
+                },
+                {
+                    "text": "<li>"
+                },
+                {
+                    "text": "<hr>"
+                }
+            ],
+            "explanation": "<b> used to make HTML Elements Bold"
+        },
+        {
+            "questionText": "What is the font-size of the h1 heading tag?",
+            "options": [{
+                    "text": "3.5 em"
+                },
+                {
+                    "text": "2 em",
+                    "correct": true
+                },
+                {
+                    "text": "2.17 em"
+                },
+                {
+                    "text": "3 em"
+                }
+            ],
+            "explanation": "2em is the default font of the h1 tag"
+        },
+        {
+            "questionText": "How many heading tags are there in HTML5?",
+            "options": [{
+                    "text": "6",
+                    "correct": true
+                },
+                {
+                    "text": "5"
+                },
+                {
+                    "text": "4"
+                },
+                {
+                    "text": "3"
+                }
+            ],
+            "explanation": "It has heading tag from h1 to h6"
+        }      
+    ]
+}

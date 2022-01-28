@@ -1,0 +1,93 @@
+{
+    "questions": [{
+            "questionText": "What is the size of float variable?",
+            "options": [{
+                    "text": "32 bit",
+                    "correct": true
+                },
+                {
+                    "text": "16 bit"
+                },
+                {
+                    "text": "8 bit"
+                },
+                {
+                    "text": "4 bit"
+                }
+            ],
+            "explanation": "The float data type is represented by single-precision 32-bit IEEE 754 floating point."
+        },
+        {
+            "questionText": "When static binding occurs?",
+            "options": [{
+                    "text": "Static binding occurs during load time."
+                },
+                {
+                    "text": "Static binding occurs during runtime."
+                },
+                {
+                    "text": "None"
+                },
+                {
+                    "text": "Static binding occurs during Compile time.",
+                    "correct": true
+                }
+            ],
+            "explanation": "Static binding occurs during Compile time."
+        },
+        {
+            "questionText": "What is the default value of Boolean variable?",
+            "options": [{
+                    "text": "true"
+                },
+                {
+                    "text": "false",
+                    "correct": true
+                },
+                {
+                    "text": "null"
+                },
+                {
+                    "text": "not defined"
+                }
+            ],
+            "explanation": "boolean variable has default value of false if defined as an instance/static variable."
+        },
+        {
+            "questionText": "What is the default value of double variable?",
+            "options": [{
+                    "text": "-0.0f"
+                },
+                {
+                    "text": "0.0d",
+                    "correct": true
+                },
+                {
+                    "text": "0"
+                },
+                {
+                    "text": "not defined"
+                }
+            ],
+            "explanation": "double variable has default value of 0.0d if defined as an instance/static variable."
+        },
+        {
+            "questionText": "Static functions can be accessed using null reference.",
+            "options": [{
+                    "text": "true",
+                    "correct": true
+                },
+                {
+                    "text": "false"
+                },
+                {
+                    "text": "Not accesible"
+                },
+                {
+                    "text": "Not applicable"
+                }
+            ],
+            "explanation": "True, Static functions can be accessed via class name or via null reference."
+        }      
+    ]
+}

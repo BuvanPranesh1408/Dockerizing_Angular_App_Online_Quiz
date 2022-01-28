@@ -1,0 +1,93 @@
+{
+    "questions": [{
+            "questionText": "Which built-in method returns the length of the string?",
+            "options": [{
+                    "text": "length()",
+                    "correct": true
+                },
+                {
+                    "text": "size()"
+                },
+                {
+                    "text": "index()"
+                },
+                {
+                    "text": "None"
+                }
+            ],
+            "explanation": "length() method returns the length of the string."
+        },
+        {
+            "questionText": "what is the HTML tag under which one can write the JavaScript code?",
+            "options": [{
+                    "text": "<javascript>"
+                },
+                {
+                    "text": "<scripted>"
+                },
+                {
+                    "text": "<js>"
+                },
+                {
+                    "text": "<script>",
+                    "correct": true
+                }
+            ],
+            "explanation": "If we want to write a JavaScript code under HTML tag, you will have to use the “script” tag."
+        },
+        {
+            "questionText": "Command to use alert box",
+            "options": [{
+                    "text": "alertbox"
+                },
+                {
+                    "text": "alert",
+                    "correct": true
+                },
+                {
+                    "text": "msg"
+                },
+                {
+                    "text": "msgbox"
+                }
+            ],
+            "explanation": "alert() to display the alert"
+        },
+        {
+            "questionText": "What is the correct syntax for referring to an external script called “geek.js”?",
+            "options": [{
+                    "text": "<script href=geek.js>"
+                },
+                {
+                    "text": "<script src=geek.js>",
+                    "correct": true
+                },
+                {
+                    "text": "<script name=geek.js>"
+                },
+                {
+                    "text": "None"
+                }
+            ],
+            "explanation": "The “src” term is used to refer to any JavaScript file."
+        },
+        {
+            "questionText": "Which of the following is not a reserved word in JavaScript?",
+            "options": [{
+                    "text": "program",
+                    "correct": true
+                },
+                {
+                    "text": "short"
+                },
+                {
+                    "text": "interface"
+                },
+                {
+                    "text": "throws"
+                }
+            ],
+            "explanation": "In JavaScript, interface, throws and short are reserved keywords."
+        }      
+    ]
+}

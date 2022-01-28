@@ -1,0 +1,94 @@
+{
+    "questions": [{
+            "questionText": "Which of the following filter is used to convert an input string to date format.",
+            "options": [{
+                    "text": "date",
+                    "correct": true
+                },
+                {
+                    "text": "dateformat"
+                },
+                {
+                    "text": "Both of the above"
+                },
+                {
+                    "text": "None of the above"
+                }
+            ],
+            "explanation": "date filter is used to convert an input string to date format."
+        },
+        {
+            "questionText": "Which of the following filter is used to convert input to all uppercase?",
+            "options": [{
+                    "text": "None of the below"
+                },
+                {
+                    "text": "Both of the below"
+                },
+                {
+                    "text": "upper"
+                },
+                {
+                    "text": "uppercase",
+                    "correct": true
+                }
+            ],
+            "explanation": "uppercase filter is used to convert the input to all uppercase."
+
+        },
+        {
+            "questionText": "Which of the following is true?",
+            "options": [{
+                    "text": "Angular 2 Services can be used to add more data to an Angular JS class."
+                },
+                {
+                    "text": "Angular 2 Metadata can be used to add more data to an Angular JS class",
+                    "correct": true
+                },
+                {
+                    "text": "Angular 2 Components can be used to add more data to an Angular JS class."
+                },
+                {
+                    "text": "None of the above.."
+                }
+            ],
+            "explanation": "Angular 2 Metadata can be used to add more data to an Angular JS class."
+        },
+        {
+            "questionText": "AngularJS is perfect for?",
+            "options": [{
+                    "text": "MPAs"
+                },
+                {
+                    "text": "SPAs",
+                    "correct": true
+                },
+                {
+                    "text": "DPAs"
+                },
+                {
+                    "text": "CPAs"
+                }
+            ],
+            "explanation": "AngularJS is perfect for Single Page Applications (SPAs)."
+        },
+        {
+            "questionText": "What is the use of Angular Controllers in the application?",
+            "options": [{
+                    "text": "Angular controllers are used for controlling the data.",
+                    "correct": true
+                },
+                {
+                    "text": "Angular controllers are used for displaying the data."
+                },
+                {
+                    "text": "Both of the above are correct."
+                },
+                {
+                    "text": "None of the above is correct."
+                }
+            ],
+            "explanation": "Angular controllers are used to control the data."
+        }
+    ]
+}
